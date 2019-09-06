@@ -26,7 +26,7 @@ A Human Capitalist business is defined by the problem it is trying to solve - su
 
 **1. No Subordinates** - The organisation should not subject any person to subordination.
 
-**2. All contributions are capital** - Contributions of human time or effort should be recognised as a contribution of capital rather than a purchase of labour, and should be compensated only by a proportionate share of control of the business and of the business profits, on the same terms as all other types of capital. 
+**2. All contributions are capital** - Contributions of human time or effort should be recognised as a contribution of capital rather than a purchase of labor, and should be compensated only by a proportionate share of control of the business and of the business profits, on the same terms as all other types of capital. 
 
 There is also the issue of indirect subordination to consider, and there are also some supporting principles that would be useful for most Human Capitalist organisations, [which you can read about here](/principles.html).
 
