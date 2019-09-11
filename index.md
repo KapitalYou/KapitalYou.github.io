@@ -2,7 +2,7 @@
 title: "Kapital You - Why you should become a Human Capitalist"
 keywords: human capitalist exchange
 sidebar: kysa_sidebar
-summary: Get rid of the boss, without having to become one yourself. Start a multi-person company where everyone involved is an entrepreneur and nobody has to be an employee.
+summary: Get rid of the boss without having to become one yourself. Start a multi-person company where everyone involved is an entrepreneur and nobody has to be an employee.
 permalink: index.html
 toc: false
 ---
