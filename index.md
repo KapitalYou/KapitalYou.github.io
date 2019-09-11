@@ -2,12 +2,10 @@
 title: "Kapital You - Why you should become a Human Capitalist"
 keywords: human capitalist exchange
 sidebar: kysa_sidebar
+summary: Get rid of the boss, without having to become one yourself. Start a multi-person company where everyone involved is an entrepreneur and nobody has to be an employee.
 permalink: index.html
 toc: false
 ---
-
-## Kapital You - Why you should become a Human Capitalist 
-
 Subordination - and therefore employment - can be patronising, infantilizing, and dehumanizing. Anyone who has followed employer instructions that were foolish or detrimental to their own wellbeing understands this in an intuitive and visceral way. 
 
 It's an experience familiar to far too many workers, and a major reason that many people try to start their own business - because while all workers are subordinates, entrepreneurs are generally not. Unfortunately, doing so presents them with a dilemma - either try to make it as a sole trader, working long hours competing with bigger businesses that benefit from teamwork in a way that they can't, or alternatively to hire employees who are then subject to the very same subordination they themselves are trying to escape - which is an unpleasant prospect for many people.

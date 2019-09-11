@@ -2,12 +2,10 @@
 title: "The Kapital You Shareholders Agreement"
 keywords: Kapital You Business Startup
 sidebar: kysa_sidebar
+summary: The Kapital You Shareholders Agreement (KYSA) makes a company into a Human Capitalist business. It is a work in progress here on Github and you can use it under a Creative Commons license. The link is at the bottom of this page. 
 permalink: agreement.html
 toc: false
 ---
-
-## The Kapital You Shareholders Agreement 
-
 The Kapital You Shareholders Agreement (KYSA) is a template for setting up a Human Capitalist company that cannot subordinate employees or subcontractors either contractually or economically, but that can still trade with other businesses that are subordinating, as long as those businesses are not controlled in any way by the company or by any of the Human Capitalists that control the company.
 
 The KYSA is a joint venture contract between a company, it's directors and shareholders, and independent contributors who are entitled to part of the company's income and can vote on it's actions. It requires any contributions of human time and effort to the company, or to any entities that the company controls, to be treated as a contribution of capital rather than as employment or as a subcontracting relationship. 
