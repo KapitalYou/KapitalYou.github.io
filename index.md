@@ -28,7 +28,7 @@ A Human Capitalist business is defined by the problem it is trying to solve - su
 
 There is also the issue of indirect subordination to consider, and there are also some supporting principles that would be useful for most Human Capitalist organisations, [which you can read about here](/principles.html).
 
-The [Kapital You Joint Venture Agreement](/agreement.html) is a template for establishing a Human Capitalist business, and is still under construction here on GitHub. Feel free to have a look at the current incomplete draft to see if it contains anything that would be useful for you, and if you have any suggestions or corrections, a GitHub pull request would be more than welcome!
+The [Kapital You Joint Venture Agreement](/agreement.html) is a template for establishing a Human Capitalist business, and is available on GitHub. Feel free to have a look at the current draft to see if it would be useful for you, and if you have any suggestions or corrections, a GitHub pull request would be more than welcome!
 <!--
 [Human Capitalist Exchange](http://discourse.humancapitalist.exchange) is a discusson website to help would-be Human Capitalists meet and collaborate on starting Human Capitalist businesses, and to provide ready-made business structures and software tools to support those businesses. The site is only just getting started, however if you think that you can see yourself as a future Human Capitalist and would like to connect with other Human Capitalists to discuss business opportunities, you can [sign up here](http://discourse.humancapitalist.exchange).
 -->
