@@ -1,5 +1,5 @@
 ---
-title: "Kapital You - peer-to-peer companies"
+title: "Kapital You - peer to peer companies"
 keywords: human capitalist exchange
 sidebar: kysa_sidebar
 summary: Get rid of the boss without having to become one yourself. Start a multi-person company where everyone involved is an entrepreneur and nobody has to be an employee.
