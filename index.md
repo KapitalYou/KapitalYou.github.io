@@ -15,5 +15,5 @@ hide_sidebar: true
 
 At KapitalYou.com we are working on a curated set of opensource tools to help independent entrepreneurs to establish and run joint venture companies, so they can work together with each other while maintaining the autonomy of having their own businesses.
 
-Watch this space!
+Watch this space!  :-)
 
